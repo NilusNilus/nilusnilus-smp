@@ -31,7 +31,7 @@ public class CommandPing extends Command {
             return;
         }
 
-        player.sendMessage(new TextComponent("§7You ping is: " + player.getPing()));
+        player.sendMessage(new TextComponent("§7Your ping is: §a" + player.getPing()));
     }
 
     // ======================================================================
