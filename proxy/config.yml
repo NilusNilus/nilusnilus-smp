@@ -1,0 +1,59 @@
+enforce_secure_profile: false
+listeners:
+- query_port: 25577
+  motd: '&1Another Bungee server'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 1
+  tab_size: 60
+  force_default_server: true
+remote_ping_cache: -1
+network_compression_threshold: 256
+permissions:
+  default:
+  - online.nilusnilus.default
+log_pings: false
+connection_throttle_limit: 3
+server_connect_timeout: 5000
+timeout: 30000
+player_limit: -1
+prevent_proxy_connections: false
+ip_forward: true
+groups:
+  md_5:
+  - admin
+remote_ping_timeout: 5000
+connection_throttle: 4000
+log_commands: false
+stats: 72c1bae8-111b-4ad9-ab9a-067a7a53146b
+online_mode: true
+forge_support: true
+disabled_commands:
+- alert
+- alertraw
+- bungee
+- end
+- find
+- glist
+- greload
+- ip
+- perms
+- send
+- server
+servers:
+  lobby:
+    motd: Lobby
+    address: localhost:25566
+    restricted: false
+  survival:
+    motd: Survival
+    address: localhost:25567
+    restricted: false

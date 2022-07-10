@@ -1,0 +1,6 @@
+# 759: < 1.19
+# 14: < 1.7
+survival:
+  min_protocol_version: 759
+lobby:
+  min_protocol_version: 14

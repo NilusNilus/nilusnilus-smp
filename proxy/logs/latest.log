@@ -1,0 +1,78 @@
+[13:14:00] [main/INFO]: Using standard Java JCE cipher.
+[13:14:00] [main/INFO]: Using standard Java compressor.
+[13:14:00] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:e1ad9a5:497
+[13:14:00] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+[13:14:00] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+[13:14:00] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+[13:14:00] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+[13:14:00] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+[13:14:00] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+[13:14:00] [main/INFO]: Loaded plugin ViaVersion version 4.3.1 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[13:14:00] [main/INFO]: Loaded plugin ViaRewind version 2.0.2 by Gerrygames
+[13:14:00] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:00] [main/INFO]: Loaded plugin NilusNilus version ${project.version} by 1NilusNilus
+[13:14:00] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:00] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:00] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:00] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:00] [main/INFO]: Loaded plugin ViaBackwards version 4.3.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+[13:14:00] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:00] [main/WARN]: Forced host server pvp is not defined
+[13:14:00] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading 1.12 -> 1.13 mappings...
+[13:14:00] [Via-Mappingloader-1/INFO] [ViaVersion]: Loading 1.13 -> 1.13.2 mappings...
+[13:14:00] [Via-Mappingloader-2/INFO] [ViaVersion]: Loading 1.13.2 -> 1.14 mappings...
+[13:14:00] [Via-Mappingloader-3/INFO] [ViaVersion]: Loading 1.14 -> 1.15 mappings...
+[13:14:00] [Via-Mappingloader-4/INFO] [ViaVersion]: Loading 1.15 -> 1.16 mappings...
+[13:14:00] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading block connection mappings ...
+[13:14:00] [Via-Mappingloader-2/INFO] [ViaVersion]: Loading 1.16 -> 1.16.2 mappings...
+[13:14:00] [Via-Mappingloader-4/INFO] [ViaVersion]: Loading 1.16.2 -> 1.17 mappings...
+[13:14:00] [Via-Mappingloader-2/INFO] [ViaVersion]: Loading 1.17 -> 1.18 mappings...
+[13:14:00] [Via-Mappingloader-2/INFO] [ViaVersion]: Loading 1.18 -> 1.19 mappings...
+[13:14:00] [main/INFO] [ViaBackwards]: Loading translations...
+[13:14:00] [Via-Mappingloader-2/INFO] [ViaBackwards]: Loading 1.10 -> 1.9.4 mappings...
+[13:14:00] [Via-Mappingloader-2/INFO] [ViaBackwards]: Loading 1.11 -> 1.10 mappings...
+[13:14:00] [Via-Mappingloader-0/INFO] [ViaBackwards]: Loading 1.12 -> 1.11 mappings...
+[13:14:01] [Via-Mappingloader-0/INFO] [ViaBackwards]: Loading 1.13 -> 1.12 mappings...
+[13:14:01] [Via-Mappingloader-2/INFO] [ViaBackwards]: Loading 1.13.2 -> 1.13 mappings...
+[13:14:01] [Via-Mappingloader-2/INFO] [ViaBackwards]: Loading 1.14 -> 1.13.2 mappings...
+[13:14:01] [Via-Mappingloader-2/INFO] [ViaBackwards]: Loading 1.15 -> 1.14 mappings...
+[13:14:01] [Via-Mappingloader-2/INFO] [ViaBackwards]: Loading 1.16 -> 1.15 mappings...
+[13:14:01] [Via-Mappingloader-0/INFO] [ViaBackwards]: Loading 1.16.2 -> 1.16 mappings...
+[13:14:01] [Via-Mappingloader-0/INFO] [ViaBackwards]: Loading 1.17 -> 1.16.2 mappings...
+[13:14:01] [Via-Mappingloader-0/INFO] [ViaBackwards]: Loading 1.18 -> 1.17 mappings...
+[13:14:01] [Via-Mappingloader-0/INFO] [ViaBackwards]: Loading 1.19 -> 1.18 mappings...
+[13:14:01] [main/INFO]: Enabled plugin ViaVersion version 4.3.1 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[13:14:01] [ViaVersion Pool Thread #0/INFO] [ViaVersion]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+[13:14:01] [ViaVersion Pool Thread #0/INFO] [ViaVersion]: Highest supported version by the proxy: 1.19 (759)
+[13:14:01] [ViaVersion Pool Thread #2/INFO] [ViaVersion]: Finished mapping loading, shutting down loader executor!
+[13:14:01] [main/INFO]: Enabled plugin ViaRewind version 2.0.2 by Gerrygames
+[13:14:01] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Initializing config file.
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Checking if data-folder exists.
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Data-folder does exist.
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Config file exists. Using that one.
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Reloading config file.
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Reloaded config file.
+[13:14:01] [main/INFO] [NilusNilus]: [warps-config.yml] Config file loaded.
+[13:14:01] [main/INFO]: Enabled plugin NilusNilus version ${project.version} by 1NilusNilus
+[13:14:01] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:01] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:01] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:01] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:01] [main/INFO]: Enabled plugin ViaBackwards version 4.3.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+[13:14:01] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:e1ad9a5:497 by WaterfallMC
+[13:14:01] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25565
+[13:14:15] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:58977] <-> InitialHandler has connected
+[13:14:15] [Netty Worker IO Thread #2/INFO]: [qkno|/127.0.0.1:58977] <-> ServerConnector [lobby] has connected
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Custom worlds heights are NOT SUPPORTED for 1.16 players and older and may lead to errors!
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: You have min/max set to -64/256
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Biome with id minecraft:mangrove_swamp has no legacy biome mapping (custom datapack?)
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Biome with id minecraft:deep_dark has no legacy biome mapping (custom datapack?)
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Ignoring plugin channel in incoming REGISTER: FML
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Ignoring plugin channel in incoming REGISTER: FML
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Ignoring plugin channel in incoming REGISTER: essential|diffct
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Ignoring plugin channel in incoming REGISTER: FORGE
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Ignoring incoming plugin message with channel: essential|diffct
+[13:14:15] [Netty Worker IO Thread #2/WARN] [ViaBackwards]: Ignoring incoming plugin message with channel: essential|diffct
+[13:14:21] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:58977|qkno] -> UpstreamBridge has disconnected
+[13:14:21] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:58977|qkno] <-> DownstreamBridge <-> [lobby] has disconnected
